@@ -17,7 +17,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-   - name: "portfolio"
+      
+  - name: "portfolio"
     label: "Portfolio"
     folder: "src/pages/portfolio"
     create: true
